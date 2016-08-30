@@ -1,5 +1,3 @@
-πÈ≤¢≈≈–Ú
-
 #include <iostream>  
 using namespace std;  
   
