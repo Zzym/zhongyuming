@@ -1,5 +1,3 @@
-©ЛкыеепР
-
 #include <iostream>  
 using namespace std;  
   
