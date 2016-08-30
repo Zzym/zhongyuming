@@ -1,3 +1,4 @@
+
 class  Register{
     private static $objTree = array();
     public static function set($alias,$object){
